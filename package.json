@@ -1,7 +1,9 @@
 {
-  "name": "template-pc-web",
+  "name": "jx-form",
   "version": "0.1.0",
-  "private": true,
+  "author": "free_tanglin@163.com",
+  "description": "jx-form",
+  "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
